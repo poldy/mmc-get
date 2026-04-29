@@ -1,0 +1,1 @@
+package("mmc-get", mit, git, tag, "https://github.com/jrfondren/mmc-get.git", ["package-management"], [], ["mmc-get"], [], [c], "Mercury package manager for https://mercury-in.space/packages/", "").
